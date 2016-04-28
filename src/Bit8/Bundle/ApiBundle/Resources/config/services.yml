@@ -1,0 +1,4 @@
+services:
+    bit8_api.client:
+        class: Bit8\Client
+

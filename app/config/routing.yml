@@ -1,0 +1,7 @@
+bit8_api:
+    resource: "@Bit8ApiBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
